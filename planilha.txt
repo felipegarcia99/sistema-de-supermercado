@@ -1,0 +1,25 @@
+ 		A	Fe	C	B	La	Fr	Le	M	
+
+CENTRALFOODS	2	7	2	6	5	7	1	6	
+
+copal		1	8	5	4	7	3	9	2	
+
+himalaia	4	6	1	8	2	10	15	6	
+
+dismelo		8	1	5	7	4	3	4	7	
+
+dunorte		1	2	9	6	6	7	4	12	
+
+fribel		8	9	7	7	4	3	5	2	
+
+
+
+Sumário:
+A - Arroz
+Fe - Feijão
+C - Carne
+B - Batata
+La - Laranja
+Fr - Frango
+Le - Leite
+M - Manteiga

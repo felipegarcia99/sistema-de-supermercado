@@ -23,10 +23,10 @@ Autores: Felipe Garcia e Gabriel Melém
 
 ## Screenshots
 
-> Tela inicial
+### Tela inicial
 
 ![](/screenshots/tela-inicial.png)
 
-> Menu
+### Menu
 
 ![](/screenshots/menu.png)
